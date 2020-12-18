@@ -18,7 +18,5 @@ Bonus question 1
 🔥
 Bonus question 2
 
-آخر موعد لرفع الكود\
-نهاية المحاضرة
 
 </div>
